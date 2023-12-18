@@ -305,5 +305,6 @@ footer>p {
     }
 .topbar{
 font-size:.6em;
+    flex-wrap: wrap;
 }
 }
